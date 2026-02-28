@@ -75,13 +75,7 @@ Janessa Thomas
 Jennifer Minor
 <br>
 <br>
-📄 <b>License</b><br>
 
-This project is licensed under the MIT License. <br>
-This means you are free to use, copy, modify, merge, publish, distribute, sublicense, <br>
-and/or sell copies of the Software, subject to the conditions listed in the LICENSE file.
-<br>
-<br>
 🙏 <b>Acknowledgments</b><br>
 
 The incredible open-source community behind Python, discord.py, and the LLM libraries.
